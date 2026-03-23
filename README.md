@@ -1,5 +1,8 @@
 # 💫 About Me:
-ENGINEER 
+Hi, I'm Anmol Raj 👋
+I'm a passionate B.Tech IT student and an aspiring Software Developer who loves building efficient and scalable solutions.
+
+I enjoy working on Data Structures & Algorithms, backend development, and solving real-world problems through code. I consistently practice to improve my problem-solving skills and write optimized, clean code. 
 
 
 ## 🌐 Socials:
